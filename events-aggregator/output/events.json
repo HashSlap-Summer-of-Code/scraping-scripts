@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "title": "HackMIT 2025",
+      "dates": "Sep 20-22, 2025",
+      "organizer": "MIT",
+      "category": "Hackathon",
+      "platform": "MLH",
+      "scraped_at": "2025-06-20T14:33:54.364167"
+    },
+    {
+      "title": "PennApps XXV",
+      "dates": "Oct 4-6, 2025",
+      "organizer": "University of Pennsylvania",
+      "category": "Hackathon",
+      "platform": "MLH",
+      "scraped_at": "2025-06-20T14:33:54.364167"
+    },
+    {
+      "title": "Data Science Bootcamp",
+      "dates": "Aug 10-12, 2025",
+      "organizer": "Unacademy",
+      "category": "Bootcamp",
+      "platform": "Unacademy",
+      "scraped_at": "2025-06-20T14:33:57.753680"
+    }
+  ],
+  "total_count": 3,
+  "generated_at": "2025-06-20T14:33:57.754680",
+  "platforms": [
+    "MLH",
+    "Unacademy"
+  ]
+}

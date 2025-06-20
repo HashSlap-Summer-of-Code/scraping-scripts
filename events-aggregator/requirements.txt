@@ -1,0 +1,23 @@
+# Events Aggregator Requirements
+# Install with: pip install -r requirements.txt
+
+# Web scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Async HTTP requests
+aiohttp
+
+# Template engine for HTML generation
+Jinja2==3.1.2
+
+# HTML parsing
+html5lib==1.1
+
+# Additional utilities
+python-dateutil==2.8.2
+urllib3==2.0.4
+
+# Optional: For better performance
+cchardet==2.1.7
