@@ -1,0 +1,111 @@
+{
+  "timestamp": "2025-06-20 14:21:55",
+  "sources": [
+    {
+      "source": "BBC News",
+      "timestamp": "2025-06-20 14:21:55",
+      "count": 10,
+      "headlines": [
+        {
+          "title": "UK and EU to hold talks with Iran as Trump sets two-week window over Middle East conflict",
+          "url": "https://www.bbc.com/news/live/c994v4gm9jmt"
+        },
+        {
+          "title": "US joining Israeli strikes would cause hell, Iranian minister tells BBC",
+          "url": "https://www.bbc.com/news/articles/c5y0wznr7wko"
+        },
+        {
+          "title": "Search for 34 missing cockfighting gamblers points to volcanic lake",
+          "url": "https://www.bbc.com/news/articles/cwyq1149w94o"
+        },
+        {
+          "title": "The Indian who called out a massacre - and shamed the British Empire",
+          "url": "https://www.bbc.com/news/articles/c24ql23qm73o"
+        },
+        {
+          "title": "Dodgers say immigration agents denied entry to Los Angeles stadium",
+          "url": "https://www.bbc.com/news/articles/cp86m3j10vpo"
+        },
+        {
+          "title": "US joining Israeli strikes would cause hell, Iranian minister tells BBC",
+          "url": "https://www.bbc.com/news/articles/c5y0wznr7wko"
+        },
+        {
+          "title": "China criticises UK warship's patrol in Taiwan Strait",
+          "url": "https://www.bbc.com/news/articles/ckg3rrz94nzo"
+        },
+        {
+          "title": "Adorable or just weird? How Labubu dolls conquered the world",
+          "url": "https://www.bbc.com/news/articles/cy4ydxlm9n9o"
+        },
+        {
+          "title": "India to decide on overseas analysis of Air India crash flight recorders",
+          "url": "https://www.bbc.com/news/articles/clyn2227jlyo"
+        },
+        {
+          "title": "Search for 34 missing cockfighting gamblers points to volcanic lake",
+          "url": "https://www.bbc.com/news/articles/cwyq1149w94o"
+        }
+      ],
+      "status": "success"
+    },
+    {
+      "source": "Times of India",
+      "timestamp": "2025-06-20 14:21:56",
+      "count": 0,
+      "headlines": [],
+      "status": "success"
+    },
+    {
+      "source": "Al Jazeera",
+      "timestamp": "2025-06-20 14:21:57",
+      "count": 10,
+      "headlines": [
+        {
+          "title": "Is it time for Europe to choose China over the US?",
+          "url": "https://www.aljazeera.com/opinions/2025/6/20/why-the-eu-should-choose-china-over-the-us"
+        },
+        {
+          "title": "Israel tried to break Iran – but it may have actually helped unite it",
+          "url": "https://www.aljazeera.com/opinions/2025/6/18/israel-tried-to-break-iran-but-it-may-have-actually-helped-unite-it"
+        },
+        {
+          "title": "What is Iran’s Fordow nuclear facility, and could US weapons destroy it?",
+          "url": "https://www.aljazeera.com/news/2025/6/19/what-is-irans-fordow-nuclear-facility-and-could-us-weapons-destroy-it"
+        },
+        {
+          "title": "Can the Israeli and Iranian economies survive a war?",
+          "url": "https://www.aljazeera.com/news/2025/6/19/can-the-israeli-and-iranian-economies-sustain-a-war"
+        },
+        {
+          "title": "Why Israel wants US bunker busters to hit Iran’s Fordow nuclear site",
+          "url": "https://www.aljazeera.com/news/2025/6/19/why-israel-wants-us-bunker-busters-to-hit-irans-fordow-nuclear-site"
+        },
+        {
+          "title": "How has Iran managed to pierce through Israel’s air defence systems?",
+          "url": "https://www.aljazeera.com/news/2025/6/18/how-has-iran-managed-to-pierce-through-israels-air-defence-systems"
+        },
+        {
+          "title": "Mapping Iran’s most significant strikes on Israel",
+          "url": "https://www.aljazeera.com/news/2025/6/18/mapping-irans-most-significant-strikes-on-israel"
+        },
+        {
+          "title": "Iranian missile hits south Israel; Iran’s FM to meet European counterparts",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/6/20/live-iran-israel-continue-missile-fire-irans-fm-to-meet-eu-counterparts"
+        },
+        {
+          "title": "Amid US-Pakistan thaw, two key challenges: Iran and China",
+          "url": "https://www.aljazeera.com/news/2025/6/20/amid-us-pakistan-thaw-two-key-challenges-iran-and-china"
+        },
+        {
+          "title": "Updates: Trump to decide whether US to attack Iran ‘within two weeks’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/6/19/live-israel-attacks-iran-security-agency-trump-mulls-joining-conflict"
+        }
+      ],
+      "status": "success"
+    }
+  ],
+  "total_headlines": 20,
+  "successful_sources": 3,
+  "failed_sources": 0
+}
