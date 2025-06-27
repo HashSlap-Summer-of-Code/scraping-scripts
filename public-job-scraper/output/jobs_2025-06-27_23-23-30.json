@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Senior Python Developer",
+        "company": "Payne, Roberts and Davis",
+        "link": "https://realpython.github.io/fake-jobs/jobs/senior-python-developer-0.html"
+    },
+    {
+        "title": "Software Engineer (Python)",
+        "company": "Garcia PLC",
+        "link": "https://realpython.github.io/fake-jobs/jobs/software-engineer-python-10.html"
+    },
+    {
+        "title": "Python Programmer (Entry-Level)",
+        "company": "Moss, Duncan and Allen",
+        "link": "https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-20.html"
+    },
+    {
+        "title": "Python Programmer (Entry-Level)",
+        "company": "Cooper and Sons",
+        "link": "https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-30.html"
+    },
+    {
+        "title": "Software Developer (Python)",
+        "company": "Adams-Brewer",
+        "link": "https://realpython.github.io/fake-jobs/jobs/software-developer-python-40.html"
+    },
+    {
+        "title": "Python Developer",
+        "company": "Rivera and Sons",
+        "link": "https://realpython.github.io/fake-jobs/jobs/python-developer-50.html"
+    },
+    {
+        "title": "Back-End Web Developer (Python, Django)",
+        "company": "Stewart-Alexander",
+        "link": "https://realpython.github.io/fake-jobs/jobs/back-end-web-developer-python-django-60.html"
+    },
+    {
+        "title": "Back-End Web Developer (Python, Django)",
+        "company": "Jackson, Ali and Mckee",
+        "link": "https://realpython.github.io/fake-jobs/jobs/back-end-web-developer-python-django-70.html"
+    },
+    {
+        "title": "Python Programmer (Entry-Level)",
+        "company": "Mathews Inc",
+        "link": "https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-80.html"
+    },
+    {
+        "title": "Software Developer (Python)",
+        "company": "Moreno-Rodriguez",
+        "link": "https://realpython.github.io/fake-jobs/jobs/software-developer-python-90.html"
+    }
+]
